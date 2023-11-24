@@ -4,6 +4,8 @@ Project week 19 of Technigo bootcamp
 
 The project was to make a backend for our previous project Happy Thoughts with endpoints to GET all thoughts, POST a new thought and like/add heart to a post.
 
+*** NOTE *** Herokuapp is not active - and therefore the projects is not working atm.
+
 ## The problem
 
 For my project I used mongoose, Express and MongoDB.
